@@ -1,0 +1,8 @@
+.navbar_styling{
+    margin: 20px auto;
+    background-color:aqua;
+    display:flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    font-weight: bold;
+}

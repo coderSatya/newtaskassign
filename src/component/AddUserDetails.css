@@ -1,0 +1,13 @@
+.user_form{
+    width: 50%;
+    border: 5px solid grey;
+    margin: 20px auto;
+    padding: 10px;
+}
+.form_margin{
+    margin-top: 15px;
+}
+.label{
+    font-weight: bold;
+    color: black;
+}

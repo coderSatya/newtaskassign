@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "userfirstname": "Sachin ",
+      "userlastname": "Tendulkar",
+      "usergender": "male",
+      "usersemeseter": "sem 1",
+      "userhobby": "Cricket",
+      "id": 1
+    },
+    {
+      "userfirstname": "Sania",
+      "userlastname": "Mirza",
+      "usergender": "female",
+      "usersemeseter": "sem 2",
+      "userhobby": "Badminton",
+      "id": 2
+    },
+    {
+      "userfirstname": "Christian",
+      "userlastname": "Ronaldo",
+      "usergender": "male",
+      "usersemeseter": "sem 3",
+      "userhobby": "Football",
+      "id": 3
+    },
+    {
+      "userfirstname": "abc",
+      "userlastname": "kumar",
+      "usergender": "male",
+      "usersemeseter": "sem 6",
+      "userhobby": "swimming",
+      "id": 4
+    }
+  ]
+}
