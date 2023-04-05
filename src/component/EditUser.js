@@ -45,36 +45,6 @@ const EditUser = () => {
     navigate("/");
   };
 
-  //   -------
-
-  //   const EditUser = () => {
-  //     const [user, setUser] = useState(initialValue);
-  //     const { firstname, lastname, address, birthdate } = user;
-  //     const { id } = useParams();
-  //     const classes = useStyles();
-  //     let history = useHistory();
-
-  //   useEffect(() => {
-  //       loadUserDetails();
-  //   }, []);
-
-  //   const loadUserDetails = async() => {
-  //       const response = await getUsers(id);
-  //       setUser(response.data);
-  //   }
-
-  //   const editUserDetails = async() => {
-  //       const response = await editUser(id, user);
-  //       history.push('/all');
-  //   }
-
-  //     const onValueChange = (e) => {
-  //         setUser({...user, [e.target.name]: e.target.value})
-  //     }
-  //   const handleChange = ()=>{
-  //    history.push('/all');
-  //   }
-
   return (
     <div>
       <form className="user_form" onSubmit={handleSubmit}>

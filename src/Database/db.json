@@ -25,12 +25,12 @@
       "id": 3
     },
     {
-      "userfirstname": "abc",
-      "userlastname": "kumar",
+      "userfirstname": "Satya",
+      "userlastname": "Prakash",
       "usergender": "male",
-      "usersemeseter": "sem 6",
-      "userhobby": "swimming",
-      "id": 4
+      "usersemeseter": "sem 9",
+      "userhobby": "Coding & Chess",
+      "id": 5
     }
   ]
 }
